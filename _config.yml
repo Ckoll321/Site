@@ -1,5 +1,6 @@
 name: My Site
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 title: [Site]
-description: [Визитная карточка]
+description: [Тестовый сайт]
